@@ -3,6 +3,10 @@
 *.a
 *.so
 
+
+*.swp
+*.un~
+
 # Folders
 _obj
 _test
